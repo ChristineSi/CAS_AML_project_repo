@@ -1,5 +1,5 @@
 # CAS_AML_project_repo
-GitHub repository containing the Jupyter notebooks that accompany the CAS AML project report.
+GitHub repository containing the Jupyter notebooks that accompany the [CAS AML](https://www.unibe.ch/continuing_education_programs/cas_advanced_machine_learning/index_eng.html) project report awarded by the University of Bern, Mathematical Institute.
 
 This repository contains a project that was created in a collaboration with:
 
